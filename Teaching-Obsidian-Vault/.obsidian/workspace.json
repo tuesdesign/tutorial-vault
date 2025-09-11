@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "8de7fe864ade02e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73a825f6d3a5e4f",
+        "type": "tabs",
+        "dimension": 19.500846023688666,
+        "children": [
+          {
+            "id": "970ab9e51ab80c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Sound T1 'mini-talk-background'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Sound T1 'mini-talk-background'"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67a860988469bbcf",
+        "type": "tabs",
+        "dimension": 19.500846023688666,
+        "children": [
+          {
+            "id": "65a72566d3b45f7b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
+      },
+      {
+        "id": "286b3786e30ede38",
+        "type": "tabs",
+        "dimension": 60.998307952622675,
+        "children": [
+          {
+            "id": "a82ff8286abd7b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Sound T1 'intro'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Sound T1 'intro'"
+            }
+          },
+          {
+            "id": "fb274e64c24c8e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Sound T1 Breakdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Sound T1 Breakdown"
+            }
+          },
+          {
+            "id": "b828d6b41927e85e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Sound T1 'mini-talk-background'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Sound T1 'mini-talk-background'"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b80650973d9246a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde1abd3d33f4b3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78be4106bdf83d29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c00666adf0b40010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2817bb8b5b829c95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23d3c82b17f8d6bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "10194fbc1e664225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b00ce281bded5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction Tutorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction Tutorial"
+            }
+          },
+          {
+            "id": "ed8499cca55c841c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction Tutorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction Tutorial"
+            }
+          },
+          {
+            "id": "23e5461f05f0934f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92ad5628ce882c7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction Tutorial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction Tutorial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "65a72566d3b45f7b",
+  "lastOpenFiles": [
+    "Game Sound T1 'intro'.md",
+    "Game Sound T1 'mini-talk-background'.md",
+    "Game Sound T1 Breakdown.md",
+    "Pasted image 20250911030951.png",
+    "Pasted image 20250911030935.png",
+    "Pasted image 20250911030651.png",
+    "Pasted image 20250911024408.png",
+    "Pasted image 20250911024322.png",
+    "Pasted image 20250911024239.png",
+    "Pasted image 20250911024212.png",
+    "Pasted image 20250911024023.png",
+    "Pasted image 20250911023143.png",
+    "Pasted image 20250911023101.png"
+  ]
+}
