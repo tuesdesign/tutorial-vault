@@ -1,4 +1,5 @@
 
+# INFR 3110U: Game Engine Design Tutorial (Week 2)
 ## We will begin shortly
 ![[giphy.gif]]
 Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday September 11, 2025

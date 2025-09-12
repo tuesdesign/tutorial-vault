@@ -6,6 +6,7 @@
       {
         "id": "e73a825f6d3a5e4f",
         "type": "tabs",
+        "dimension": 41.60432252701579,
         "children": [
           {
             "id": "970ab9e51ab80c47",
@@ -53,6 +54,7 @@
       {
         "id": "1c605fe2c3acb11b",
         "type": "tabs",
+        "dimension": 58.39567747298421,
         "children": [
           {
             "id": "150d9c472f6c33d1",
@@ -215,10 +217,10 @@
   },
   "active": "05216a1731d02d40",
   "lastOpenFiles": [
-    "Pasted image 20250912122546.png",
-    "Pasted image 20250912120808.png",
     "Game Sound Week 2/Game Sound T1 'intro'.md",
     "Game Engine Design T1 'Introduction'.md",
+    "Pasted image 20250912122546.png",
+    "Pasted image 20250912120808.png",
     "giphy.gif",
     "Game Sound Week 2/Pasted image 20250910211644.png",
     "Game Sound Week 2/Pasted image 20250910210844.png",
@@ -230,7 +232,6 @@
     "Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
     "Game Sound Week 2/Pasted image 20250911030951.png",
     "Game Sound Week 2/Pasted image 20250911030935.png",
-    "Game Sound Week 2/Pasted image 20250911030651.png",
-    "Game Sound Week 2/Pasted image 20250911024408.png"
+    "Game Sound Week 2/Pasted image 20250911030651.png"
   ]
 }
