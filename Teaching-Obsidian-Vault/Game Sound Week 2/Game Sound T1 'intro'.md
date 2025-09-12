@@ -1,3 +1,7 @@
+---
+theme:
+---
+
 # INFR 2370U: Game Sound Tutorial
 # 'Introduction'
 ![[giphy.gif]]
