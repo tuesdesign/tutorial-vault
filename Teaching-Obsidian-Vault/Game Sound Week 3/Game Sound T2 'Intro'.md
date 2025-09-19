@@ -1,6 +1,6 @@
 # INFR 2370U: Game Sound Tutorial
 # 'Introduction'
-![[giphy.gif]]
+![[Game Engines Week 2/giphy.gif]]
 ## We will begin shortly
 Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday September 18, 2025
 
