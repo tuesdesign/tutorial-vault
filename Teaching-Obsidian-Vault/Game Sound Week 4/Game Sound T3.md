@@ -143,6 +143,9 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Sep
 ---
 # Sampling
 ![[giphy.gif]]
+#### Re-Using a (usually small) piece of audio in something else
+#### Advantage: draw from existing musical phrases and auditory canon
+#### Disadvantage: Not legal unless you attain express permission and licencing from the original copyright holder
 ---
 
 # Sampling Examples
@@ -155,9 +158,49 @@ https://www.youtube.com/watch?v=Y9uDl6IwHWQ
 
 # Soundfonts
 
+![[Pasted image 20250925143644.png]]
+### The earliest game systems could only produce sound using programmable Duty Chips which make primitive sound waves (sine, square, saw, etc)
+
+#### They either did not support arbitrary sounds (ie: waveform) due to size constraints and hardware limitations
+
+---
+![[Pasted image 20250925143948.png]]
+### The next generation of systems could play any sounds, but were still restricted by file size
+
+#### A 3 minute WAV file can be ~30MB, the maximum ROM file size for a SNES game is 6MB (including sound, art, code, and everything else)
+
+## How can we play back full-quality songs without storing them?
+---
+# The Sound Font
+![[Pasted image 20250925144116.png]]
+## Save a very small WAV of each note played by each instrument and write the songs as a MIDI track
+
+## Implement a Sample instrument to recreate your music at runtime
+
+# This cuts down our file size massively!
+
+---
+# Why do we care about this today?
+
+![[Pasted image 20250925144652.png]]
+
+## You can use these Soundfont files with a modern sampler VST program to use these sounds in your own music
+
+## Famously, Toby Fox used soundfonts, such as the one from EarthBound for much of the Undertale soundtrack
+
+## This is also a legal grey area. I personally wouldn't want to pick a legal battle with Nintendo
+
 ---
 # Granular Synthesis
 
+![[Pasted image 20250925150608.png]]
+## What if we take a similar idea to the extreme?
+
+## In this model, we call the shortest unit of sound a Grain 
+
+### We loop through or sample this 'grain' many times per second and apply synth effects to it (ADSR Envelope, Reverb, Filters, etc)
+
+# Live demo?
 ---
 
 # Jam Session
