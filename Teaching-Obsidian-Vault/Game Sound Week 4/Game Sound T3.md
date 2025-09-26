@@ -142,7 +142,7 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Sep
 
 ---
 # Sampling
-![[giphy.gif]]
+![[Game Sound Week 4/giphy.gif]]
 #### Re-Using a (usually small) piece of audio in something else
 #### Advantage: draw from existing musical phrases and auditory canon
 #### Disadvantage: Not legal unless you attain express permission and licencing from the original copyright holder
