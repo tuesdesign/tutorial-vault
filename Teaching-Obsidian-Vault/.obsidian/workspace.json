@@ -4,124 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "38cfe059f5685b99",
+        "id": "ff3092856260af7e",
         "type": "tabs",
         "children": [
           {
-            "id": "20591e592327634a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Game Sound Week 4/Pasted image 20250925150608.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250925150608"
-            }
-          },
-          {
-            "id": "724b6d2a955be097",
+            "id": "fc248ad7c04f2530",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Engines Week 5/Game Engine Design T5.md",
+                "file": "Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Engine Design T5"
+              "title": "Game Engine Design T1 'Introduction'"
             }
           },
           {
-            "id": "a6922f9881faba75",
+            "id": "2b658c15e623e0d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Sound Week 5/Game Sound T4.md",
+                "file": "Game Sound Week 6/Game Sound T5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Sound T4"
-            }
-          },
-          {
-            "id": "06a84af499484be2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Game Sound Week 4/Pasted image 20250925144954.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250925144954"
-            }
-          },
-          {
-            "id": "18139c1ae151d148",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Game Sound Week 4/Pasted image 20250925144652.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250925144652"
-            }
-          },
-          {
-            "id": "002465c66c5ae3fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rubric GED 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rubric GED 1"
-            }
-          },
-          {
-            "id": "06ae51f8ccd0e42d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Sound Week 4/Game Sound T3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Sound T3"
-            }
-          },
-          {
-            "id": "09cefa287236a50b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Sound Week 3/Game Sound T2 Writer's Block.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Sound T2 Writer's Block"
+              "title": "Game Sound T5"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "b7e41d628f10cb2c",
+        "id": "d27aa132f67595f1",
         "type": "tabs",
         "children": [
           {
-            "id": "da1b89b3bd4d05ff",
+            "id": "724a4a746699db91",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -133,35 +55,21 @@
         ]
       },
       {
-        "id": "64576d382cf1f52b",
+        "id": "ba14746d6a13b0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4bec2381f0898a",
+            "id": "dde7112976992c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Engines Week 3/Game Engine Design T2.md",
+                "file": "Game Sound Week 5/Game Sound T4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Engine Design T2"
-            }
-          },
-          {
-            "id": "c05b96fe4a12edba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Sound Week 4/Game Sound T3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Sound T3"
+              "title": "Game Sound T4"
             }
           }
         ]
@@ -313,37 +221,41 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "724b6d2a955be097",
+  "active": "724a4a746699db91",
   "lastOpenFiles": [
+    "Pasted image 20251009022437.png",
+    "gsw6ex1.png",
+    "giphy (2).gif",
+    "1_Y8K6OS08ZvL8STnIAAllAw.gif",
+    "Pasted image 20251009013810.png",
+    "Pasted image 20251009013646.png",
+    "Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
+    "Game Sound Week 3/Game Sound T2 'Intro'.md",
+    "Game Sound Week 2/Game Sound T1 'intro'.md",
+    "Game Engines Week 3/Game Engine Design T2.md",
+    "Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
+    "Game Sound Week 6/Game Sound T5.md",
+    "Pasted image 20251009013057.png",
+    "Pasted image 20251009012842.png",
+    "Pasted image 20251009012249.png",
+    "Pasted image 20251008213712.png",
+    "Game Engines Week 2/stormcastle-tv.gif",
+    "Game Sound Week 4/Game Sound T3.md",
+    "Game Sound Week 5/Game Sound T4.md",
+    "Game Sound Individual Rubric.md",
+    "Game Sound Week 6",
+    "Game Sound Week 3/Game Sound T2 Writer's Block.md",
     "Rubric GED 1.md",
     "Game Engines Week 5/Game Engine Design T5.md",
     "Game Engine Design.md",
-    "Game Engines Week 3/Game Engine Design T2.md",
-    "Game Sound Week 5/Game Sound T4.md",
-    "1_TWx3CAti9ryvrUKtVcU6QQ.gif",
     "Game Engines Week 5",
-    "Pasted image 20251002140212.png",
-    "Pasted image 20251002134133.png",
-    "Pasted image 20251002133934.png",
-    "Pasted image 20251002133722.png",
-    "Game Sound Week 4/Game Sound T3.md",
-    "Pasted image 20251002132903.png",
-    "Pasted image 20251002123454.png",
-    "giphy (1).gif",
-    "Game Sound Week 2/Game Sound T1 'intro'.md",
-    "Game Sound Week 3/Game Sound T2 'Intro'.md",
     "Game Sound Week 5",
-    "Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
     "Game Sound Week 4/Game Sound T3 Breakdown.md",
-    "thingdoerdll 1.png",
-    "thingdoercs.png",
     "Game Engines Week 4/Game Engine Design T3.md",
-    "Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
     "Game Engines Week 3/Game Engine Design T2 Breakdown.md",
     "Game Engines Week 4",
     "Game Sound Week 3/Game Sound T2 Breakdown.md",
     "Game Sound Week 4",
-    "Game Sound Week 3/Game Sound T2 Writer's Block.md",
     "Game Engines Week 2/Game Engine Design T1 Breakdown.md",
     "Game Engines Week 3",
     "Game Engines Week 2",
