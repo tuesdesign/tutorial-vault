@@ -17,7 +17,7 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Sep
 
 ---
 # What is a DLL?
-![[giphy.gif]]
+![[Misc/giphy.gif]]
 ## A library is a bank of code which we can reference and make use of in multiple contexts  <!-- element class="fragment" -->
 ## When we 'include' a library in our code, we are adding 'links' to everything it implements <!-- element class="fragment" -->
 
