@@ -27,23 +27,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Engines Week 11/Game Engine Design T11.md",
+                "file": "Game Sound Finale/Game Sound T12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Engine Design T11"
+              "title": "Game Sound T12"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "8ce0ab7698d02538",
+        "id": "765e2ae625f962fb",
         "type": "tabs",
         "children": [
           {
-            "id": "925a2e0f0d987e76",
+            "id": "7746d236b3e66874",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -86,8 +86,7 @@
               "title": "Game Engine Design T2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +232,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "925a2e0f0d987e76",
+  "active": "746fd4dff075e17a",
   "lastOpenFiles": [
-    "Game Engines Week 3/Game Engine Design T2.md",
+    "Game Sound Week 10/Game Sound T8.md",
+    "Game Sound Finale/Game Sound T12.md",
+    "Game Sound Week 5/Game Sound T4.md",
+    "Game Sound Week 9/Game Sound T7.md",
+    "Game Sound Week 8/Game Sound T6.md",
+    "Game Sound Week 6/Game Sound T5.md",
+    "Game Sound Week 4/Game Sound T3.md",
+    "Game Sound Week 3/Game Sound T2 'Intro'.md",
+    "Game Sound Week 3/Game Sound T2 Breakdown.md",
+    "Game Sound Week 3/Game Sound T2 Writer's Block.md",
+    "Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
+    "Game Sound Week 2/Game Sound T1 'intro'.md",
     "Game Engines Week 11/Game Engine Design T11.md",
+    "Game Sound Finale",
+    "Game Engines Week 3/Game Engine Design T2.md",
     "Game Engines Week 4/Game Engine Design T3.md",
     "Untitled.md",
     "Game Engines Week 11",
@@ -244,11 +256,8 @@
     "Pasted image 20251113144447.png",
     "Pasted image 20251113143941.png",
     "Pasted image 20251113143427.jpg",
-    "Game Sound Week 10/Game Sound T8.md",
     "Pasted image 20251113142333.png",
-    "Game Sound Week 2/Game Sound T1 'intro'.md",
     "Game Sound Week 11",
-    "Game Sound Week 8/Game Sound T6.md",
     "Game Engines Week 6/Game Engine Design Week 6.md",
     "Game Engines Week 10/Game Engine Design Week 10.md",
     "Game Engines Week 5/Game Engine Design T5.md",
@@ -261,10 +270,8 @@
     "Game Engines Week 8/Game Engines Week 8 Tutorial.md",
     "Game Engines Week 9/Game Engine Design Tutorial (Week 9).md",
     "Game Engines Week 10",
-    "Game Sound Week 9/Game Sound T7.md",
     "Game Sound Week 10",
     "Game Engines Week 9",
-    "Game Sound Week 3/Game Sound T2 'Intro'.md",
     "Game Sound Week 9"
   ]
 }

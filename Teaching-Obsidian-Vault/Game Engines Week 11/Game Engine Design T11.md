@@ -51,7 +51,7 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Friday Novem
 ## Profiling and Performance
 #### Do your patterns / technique implementations improve performance? Why or why not? <!-- element class="fragment" -->
 #### Can you demonstrate what the profiling process revealed? Were you able to make improvements based on your findings?  <!-- element class="fragment" -->
-
+[](https://preview.redd.it/analog-stick-movement-and-circularity-errors-diagram-v0-3mvp7elkqxfb1.jpg?width=2000&format=pjpg&auto=webp&s=dcfa98c97f4dac029573518300dfc1ac7cd6984f)
 ## Live Demo
 #### Does your demo function without major issues or bugs? <!-- element class="fragment" -->
 #### Does your demo demonstrate cohesion? (ie: do all the patterns / techniques work together?) <!-- element class="fragment" -->
