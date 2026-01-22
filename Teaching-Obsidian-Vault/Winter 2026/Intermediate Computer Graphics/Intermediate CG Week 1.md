@@ -122,4 +122,5 @@ flowchart TB
 
 # Independent Work Time / Q&A Period
 
+
 ## Thank you for coming to the lab, be good to each other!

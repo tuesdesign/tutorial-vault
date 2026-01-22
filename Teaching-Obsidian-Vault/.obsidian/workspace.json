@@ -6,20 +6,18 @@
       {
         "id": "00e9526998c92c47",
         "type": "tabs",
-        "dimension": 42.459016393442624,
+        "dimension": 50,
         "children": [
           {
             "id": "41b9ac02de8eaa11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
-                "mode": "source",
-                "source": false
+                "file": "59wznwWraqmjKRbF.mp4"
               },
               "icon": "lucide-file",
-              "title": "Intermediate CG Week 1"
+              "title": "59wznwWraqmjKRbF"
             }
           },
           {
@@ -36,15 +34,16 @@
               "title": "Game Hardware Tutorial 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "0e38e3da2187e2d0",
+        "id": "81a07ceb3839e851",
         "type": "tabs",
-        "dimension": 57.540983606557376,
+        "dimension": 50,
         "children": [
           {
-            "id": "30c7843c2c1e24e2",
+            "id": "dd1cf2b7588cc2b8",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -199,23 +198,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "41b9ac02de8eaa11",
+  "active": "746fd4dff075e17a",
   "lastOpenFiles": [
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
+    "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
+    "Pasted image 20260122153642.png",
+    "Pasted image 20260122153514.png",
+    "59wznwWraqmjKRbF.mp4",
+    "Pasted image 20260122153332.png",
+    "Pasted image 20260122153316.png",
     "Pasted image 20260119022631.png",
     "Pasted image 20260119022209.png",
     "Pasted image 20260119021615.png",
     "Pasted image 20260119011729.png",
     "Pasted image 20260119012338.png",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
-    "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
     "Pasted image 20260119011241.png",
-    "Pasted image 20260119011359.png",
     "Winter 2026/Intermediate Computer Graphics",
     "Fall 2025/Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
     "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
     "Winter 2026/Untitled.md",
     "Winter 2026/Game Hardware",
-    "Fall 2025/z3GRJx.gif",
     "Winter 2026",
     "Fall 2025",
     "Fall 2025/Game Sound Finale/Game Sound T12.md",
@@ -237,15 +239,11 @@
     "Fall 2025/Untitled.md",
     "Fall 2025/Game Engines Week 11",
     "Fall 2025/Game Sound Week 11/Game Sound T9.md",
-    "Fall 2025/Pasted image 20251113144447.png",
-    "Fall 2025/Pasted image 20251113143941.png",
-    "Fall 2025/Pasted image 20251113143427.jpg",
     "Fall 2025/Game Sound Week 11",
     "Fall 2025/Game Engines Week 6/Game Engine Design Week 6.md",
     "Fall 2025/Game Engines Week 10/Game Engine Design Week 10.md",
     "Fall 2025/Game Engines Week 8/Game Engines Week 8 Tutorial.md",
     "Fall 2025/Game Engines Week 10",
-    "Fall 2025/Game Sound Week 10",
-    "Fall 2025/Game Engines Week 9"
+    "Fall 2025/Game Sound Week 10"
   ]
 }
