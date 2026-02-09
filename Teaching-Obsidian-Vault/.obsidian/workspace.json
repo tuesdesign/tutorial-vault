@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
+                "file": "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Hardware Tutorial 2&3"
+              "title": "Intermediate CG Week 4"
             }
           },
           {
@@ -52,12 +52,12 @@
         "currentTab": 1
       },
       {
-        "id": "9495771a0a53d3ad",
+        "id": "d2108d7c486946dd",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "aeb8625b146c9a54",
+            "id": "3f47f3ce5e808689",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -212,22 +212,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aeb8625b146c9a54",
+  "active": "746fd4dff075e17a",
   "lastOpenFiles": [
-    "Quiz 2 Makeup Activity.md",
-    "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
-    "Pasted image 20260202024900.png",
-    "Pasted image 20260202024824.png",
-    "Pasted image 20260202024207.png",
-    "Pasted image 20260202023929.png",
-    "Pasted image 20260202023825.png",
-    "Pasted image 20260202023638.png",
-    "Pasted image 20260202023457.png",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
-    "Pasted image 20260202022209.png",
-    "Pasted image 20260202022203.png",
-    "Pasted image 20260202022035.png",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
+    "Pasted image 20260209032353.png",
+    "Pasted image 20260209031343.png",
+    "Pasted image 20260209030506.png",
+    "Pasted image 20260209030326.png",
+    "Pasted image 20260209025753.png",
+    "Pasted image 20260209025638.png",
+    "Pasted image 20260209024952.png",
+    "Pasted image 20260209024907.png",
+    "Pasted image 20260209024542.png",
+    "Pasted image 20260209022641.png",
+    "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
+    "Quiz 2 Makeup Activity.md",
     "Untitled",
     "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
     "59wznwWraqmjKRbF.mp4",
@@ -256,9 +257,7 @@
     "Fall 2025/Game Engines Week 4/Game Engine Design T3.md",
     "Fall 2025/Untitled.md",
     "Fall 2025/Game Engines Week 11",
-    "Fall 2025/Game Sound Week 11/Game Sound T9.md",
     "Fall 2025/Game Sound Week 11",
-    "Fall 2025/Game Engines Week 6/Game Engine Design Week 6.md",
     "Fall 2025/Game Engines Week 10"
   ]
 }
