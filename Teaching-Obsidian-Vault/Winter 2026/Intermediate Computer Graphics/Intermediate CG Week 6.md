@@ -49,6 +49,8 @@
 
 ![[Pasted image 20260223013353.png]]
 
+---
+# Modern display technologies (such as OLED or Quantum Dot displays) employ interesting patterns
 
 ![[Pasted image 20260223013303.png]]
 
@@ -114,10 +116,34 @@
 ![[Pasted image 20260223022148.png]]
 
 ---
+# We can encode useful data in a texture, sampling allows us to read that data
 
+## This is a depth buffer (or z-buffer). Each pixel is shaded according to how far away it is from the camera
+
+# How might we use this?
+![[Pasted image 20260223135408.png]]
+
+---
+# In Silent Hill, depth fog was used to hide the game's short render depth
+
+### Nowadays, we might use a similar effect as a creative choice.
+
+![[Pasted image 20260223135633.png]]
+
+---
+# Another example is water
+### We expect water to look darker with more depth
+
+![[Pasted image 20260223135839.png]]
+
+---
 # What is convolution?
 
 ## This mathematical operation powers visual effects, data storage, and even AI models.
+
+![[Pasted image 20260223141331.png]]
+
+---
 
 ## Similar to addition or multiplication, it is a type of transformation we can use to apply one function to another.
 
@@ -191,3 +217,7 @@ https://www.youtube.com/watch?v=k9g2LaBrirI
 
 ---
 
+# Next week
+
+### We will discuss programming your own post-processing effects
+## Would you like to go deeper into any of our topics today (displays, sampling, lookup tables, convolution, etc)?

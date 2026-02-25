@@ -88,5 +88,84 @@
 
 ## We'll talk more about Ardity later.
 ---
+# Xinput for Arduino
 
+### Sends signals interpreted as an Xbox controller
+
+### Only compatible with a few Arduinos
+
+---
+
+# Mechanical keyboard firmware
+
+### Sends keycodes, interpreted as keyboard across operating systems
+
+### Some include support for additional features such as rotary encoders, mouse pointers, and LEDs
+
+### Heavily limits your choices in terms of microcontrollers
+
+---
+  
+
+# Choosing a Microcontroller
+
+## First, determine the number of pins you need
+
+## Consider additional features such as Bluetooth/battery support, type of USB connector used, size, compatibility with firmware options, and ability to find production files
+
+---
+
+# BBC Microbit
+![[Pasted image 20260212172306.png]]
+### Simplest to use
+
+### Built in sensors and LED array
+### Very few pins
+
+---
+
+# Arduino Uno
+![[Pasted image 20260212172247.png]]
+### Easy compatibility with breadboards
+
+### Many examples will use these
+
+### Many knock-offs are available
+
+  
+---
+# Arduino Pro Micro
+
+![[Pasted image 20260212172209.png]]
+
+### Similar feature set to Uno in a smaller package
+
+### Many other microcontrollers will use the same shape and pinout
+
+---
+
+# Seeed Xiao
+
+![[Pasted image 20260212172052.png]]
+
+### Small form factor
+
+### Few pins
+
+### Available with a variety of skus to match project needs
+
+  
+---
+
+# If you are planning on making a PCB
+
+### Make sure that you can find a footprint and layout for your exact microcontroller! 
+
+---
+# Demo: continuing with our keyboard 
+
+---
+# Demo: Ardity
+
+---
 # Independent Work / Q&A Support Time

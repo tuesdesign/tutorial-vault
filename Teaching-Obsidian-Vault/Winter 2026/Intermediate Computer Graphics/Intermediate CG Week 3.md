@@ -119,3 +119,7 @@ https://youtu.be/Px_H1oyZgGY?si=arkapOIOC8-ebstz&t=82
 ![[Pasted image 20260202024900.png| 300]]
 ![[Pasted image 20260202023457.png | 300]]
 ![[Pasted image 20260202024824.png | 300]]
+
+---
+# Independent Work Time
+## Thank you for coming to the lab!
