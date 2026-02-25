@@ -6,7 +6,6 @@
       {
         "id": "00e9526998c92c47",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "41b9ac02de8eaa11",
@@ -26,26 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
+                "file": "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intermediate CG Week 6"
-            }
-          },
-          {
-            "id": "c7059cae23cbbe15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intermediate CG Week 6"
+              "title": "Game Hardware Tutorial 1"
             }
           },
           {
@@ -54,24 +39,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiz 2 Makeup Activity.md",
+                "file": "AI Ethics Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiz 2 Makeup Activity"
+              "title": "AI Ethics Presentation"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "90de6967f2993e3c",
+        "id": "74c6f369ccc21cca",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "4fbbc1db06853ce6",
+            "id": "a6da38e6dd9afb65",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -226,30 +210,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c7059cae23cbbe15",
+  "active": "5e42920cde64b092",
   "lastOpenFiles": [
-    "Pasted image 20260223141331.png",
-    "Pasted image 20260223135839.png",
-    "Pasted image 20260223135633.png",
-    "Pasted image 20260223135408.png",
-    "AI Ethics Presentation.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 4.md",
-    "spy-kids-lemme-zoom-in-on-that.gif",
-    "splendorLUT.png",
-    "negativeLUT.png",
-    "identityLUT.png",
-    "bill-nye-bill-nye-the-science-guy.gif",
-    "Winter 2026/Intermediate Computer Graphics/Grading Template Activity 1.md",
-    "Pasted image 20260223070705.png",
-    "Pasted image 20260223031158.png",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
-    "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
-    "Quiz 2 Makeup Activity.md",
-    "Untitled",
+    "Pasted image 20260225060248.png",
+    "Pasted image 20260225055740.png",
+    "Pasted image 20260225054127.png",
+    "Pasted image 20260225053451.png",
+    "Pasted image 20260225050745.png",
+    "Pasted image 20260225045935.png",
+    "Pasted image 20260225045846.png",
+    "Pasted image 20260225044607.png",
+    "Pasted image 20260225043055.png",
+    "Pasted image 20260225043010.png",
+    "Pasted image 20260225042300.png",
     "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
+    "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
+    "AI Ethics Presentation.md",
+    "Winter 2026/Game Hardware/Game Hardware Week 4.md",
+    "Winter 2026/Intermediate Computer Graphics/Grading Template Activity 1.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
+    "Quiz 2 Makeup Activity.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
+    "Untitled",
     "59wznwWraqmjKRbF.mp4",
     "Winter 2026/Intermediate Computer Graphics",
     "Fall 2025/Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
@@ -269,7 +254,6 @@
     "Fall 2025/Game Sound Week 3/Game Sound T2 Breakdown.md",
     "Fall 2025/Game Sound Week 3/Game Sound T2 Writer's Block.md",
     "Fall 2025/Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
-    "Fall 2025/Game Sound Week 2/Game Sound T1 'intro'.md",
     "Fall 2025/Game Sound Finale",
     "Fall 2025/Game Engines Week 11",
     "Fall 2025/Game Sound Week 11",
