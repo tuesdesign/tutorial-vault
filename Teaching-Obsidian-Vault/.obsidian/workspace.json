@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2026/Game Hardware/Game Hardware Week 9.md",
+                "file": "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Hardware Week 9"
+              "title": "Intermediate CG Week 10"
             }
           },
           {
@@ -38,11 +38,11 @@
         ]
       },
       {
-        "id": "6d1f49c3d5dcb814",
+        "id": "10708a3f833fe62a",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd2b8b465285d96",
+            "id": "f1d8e5a012d93d3b",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -199,19 +199,27 @@
   },
   "active": "746fd4dff075e17a",
   "lastOpenFiles": [
+    "Pasted image 20260323130847.png",
+    "Pasted image 20260323130610.png",
+    "Pasted image 20260323130313.png",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
+    "Pasted image 20260323125424.png",
+    "Untitled.base",
+    "Pasted image 20260323123320.png",
+    "Pasted image 20260323120725.png",
+    "Pasted image 20260323115724.png",
+    "Pasted image 20260323114954.png",
+    "Pasted image 20260323114851.png",
+    "Winter 2026/Game Hardware/Game Hardware Week 4.md",
+    "Winter 2026/Game Hardware/Game Hardware Week 9.md",
+    "Winter 2026/Game Hardware/Game Hardware Week 8.md",
+    "Winter 2026/Game Hardware/Game Hardware Week 7.md",
     "Pasted image 20260319155002.png",
     "Pasted image 20260319154749.png",
-    "Pasted image 20260319154347.png",
-    "Pasted image 20260319154106.png",
-    "Pasted image 20260319153842.png",
-    "Pasted image 20260319153754.png",
-    "Pasted image 20260319153632.png",
-    "Pasted image 20260319153629.png",
-    "Pasted image 20260319153245.png",
-    "Pasted image 20260319151135.png",
-    "Pasted image 20260319151114.png",
-    "Winter 2026/Game Hardware/Game Hardware Week 8.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 9.md",
     "Winter 2026/Intermediate Computer Graphics/Grading Template Activity 1.md",
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg.kicad_mod",
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_270deg.kicad_mod",
@@ -222,20 +230,13 @@
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_6.25u.kicad_mod",
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_6.00u_Offset.kicad_mod",
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_6.00u.kicad_mod",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_5.50u.kicad_mod",
-    "Winter 2026/Game Hardware/Game Hardware Week 4.md",
     "Winter 2026/Game Hardware/Game Hardware Week 6.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 7.md",
     "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
     "Winter 2026/Game Hardware/Game Hardware CAD Practice Activity.md",
     "Quiz 2 Makeup Activity.md",
     "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
     "AI Ethics Presentation.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
     "Fall 2025/Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
     "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
     "Winter 2026/Untitled.md",
@@ -243,7 +244,6 @@
     "Fall 2025/Game Sound Week 10/Game Sound T8.md",
     "Fall 2025/Game Sound Week 5/Game Sound T4.md",
     "Fall 2025/Game Sound Week 9/Game Sound T7.md",
-    "Fall 2025/Game Sound Week 8/Game Sound T6.md",
-    "Fall 2025/Game Sound Week 6/Game Sound T5.md"
+    "Fall 2025/Game Sound Week 8/Game Sound T6.md"
   ]
 }
