@@ -6,6 +6,7 @@
       {
         "id": "00e9526998c92c47",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "746fd4dff075e17a",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
+                "file": "Winter 2026/Game Hardware/Game Hardware Week 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intermediate CG Week 10"
+              "title": "Game Hardware Week 10"
             }
           },
           {
@@ -38,11 +39,12 @@
         ]
       },
       {
-        "id": "10708a3f833fe62a",
+        "id": "95434e5cd374a95c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "f1d8e5a012d93d3b",
+            "id": "b470cd02d6712767",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -199,27 +201,28 @@
   },
   "active": "746fd4dff075e17a",
   "lastOpenFiles": [
-    "Pasted image 20260323130847.png",
-    "Pasted image 20260323130610.png",
-    "Pasted image 20260323130313.png",
+    "Pasted image 20260326152543.png",
+    "Pasted image 20260326152500.png",
+    "Pasted image 20260326152343.png",
+    "Pasted image 20260326152121.png",
+    "Pasted image 20260326151929.png",
+    "Pasted image 20260326151817.png",
+    "Pasted image 20260326151323.png",
+    "Pasted image 20260326151210.png",
+    "Pasted image 20260326150709.png",
+    "Pasted image 20260326150611.png",
+    "Pasted image 20260326150433.png",
+    "Winter 2026/Game Hardware/Game Hardware Week 8.md",
+    "Winter 2026/Game Hardware/Game Hardware Week 9.md",
+    "Winter 2026/Game Hardware/Game Hardware Week 10.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
-    "Pasted image 20260323125424.png",
     "Untitled.base",
-    "Pasted image 20260323123320.png",
-    "Pasted image 20260323120725.png",
-    "Pasted image 20260323115724.png",
-    "Pasted image 20260323114954.png",
-    "Pasted image 20260323114851.png",
     "Winter 2026/Game Hardware/Game Hardware Week 4.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 9.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 8.md",
     "Winter 2026/Game Hardware/Game Hardware Week 7.md",
-    "Pasted image 20260319155002.png",
-    "Pasted image 20260319154749.png",
     "Winter 2026/Intermediate Computer Graphics/Grading Template Activity 1.md",
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg.kicad_mod",
     "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_270deg.kicad_mod",
@@ -243,7 +246,6 @@
     "Fall 2025/Game Sound Finale/Game Sound T12.md",
     "Fall 2025/Game Sound Week 10/Game Sound T8.md",
     "Fall 2025/Game Sound Week 5/Game Sound T4.md",
-    "Fall 2025/Game Sound Week 9/Game Sound T7.md",
-    "Fall 2025/Game Sound Week 8/Game Sound T6.md"
+    "Fall 2025/Game Sound Week 9/Game Sound T7.md"
   ]
 }
