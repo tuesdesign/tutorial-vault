@@ -23,6 +23,20 @@
             }
           },
           {
+            "id": "9a6690c54cbc06e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ai Ethics Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ai Ethics Questions"
+            }
+          },
+          {
             "id": "5e42920cde64b092",
             "type": "leaf",
             "state": {
@@ -36,15 +50,16 @@
               "title": "Game Hardware Week 6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "95434e5cd374a95c",
+        "id": "1a1c56a1cafc2663",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "b470cd02d6712767",
+            "id": "b9940c5dab920ff0",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -199,8 +214,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "746fd4dff075e17a",
+  "active": "9a6690c54cbc06e0",
   "lastOpenFiles": [
+    "Winter 2026/Game Hardware/Game Hardware Week 10.md",
+    "Ai Ethics Questions.md",
     "Pasted image 20260326152543.png",
     "Pasted image 20260326152500.png",
     "Pasted image 20260326152343.png",
@@ -211,10 +228,8 @@
     "Pasted image 20260326151210.png",
     "Pasted image 20260326150709.png",
     "Pasted image 20260326150611.png",
-    "Pasted image 20260326150433.png",
     "Winter 2026/Game Hardware/Game Hardware Week 8.md",
     "Winter 2026/Game Hardware/Game Hardware Week 9.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 10.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
