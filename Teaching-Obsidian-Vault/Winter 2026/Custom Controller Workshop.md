@@ -53,7 +53,7 @@ Unique inputs can unlock fun interactions that make new types of games possible
 
 ### It's super cool!
 
-![[59wznwWraqmjKRbF.mp4]]
+![[59wznwWraqmjKRbF 1.mp4]]
 
 ---
 # Game Hardware 101
