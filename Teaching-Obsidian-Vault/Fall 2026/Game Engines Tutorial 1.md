@@ -94,22 +94,17 @@ disclaimer is added to the video report.
 ### Failure to meet the generative AI conditions will result in zero marks for any component of the assignment using it.
 
 ---
-
+# Let's talk about AI...
+### Please keep the discussion civil and respectful to your peers, even if you do not agree 
 
 ---
+# Free Work Time: Group Formation
+### It's suggested that you form a course project group as soon as possible
+### If possible, GDW groups are a great option.
+### Max Group Size: 3
+### You may form a group with students from the other tutorial section
 
-Who am I
-What is this course?
-- not how to build engines
-- how to properly use and extend engines
-- technical course
-How can you succeed in this course?
-- always be 
-- apply learnings to GDW
-What will evaluations look like?
-What will the lab assignments look like?
-Necessary tools
-- Version Control
-- Engine
-How to choose an engine (for GDW, and others)
-About AI in this course
+---
+# Recap: Project Creation, Version Control, and Building
+
+### Live Demo
