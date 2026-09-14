@@ -23,7 +23,7 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct
 ---
 
 
-# Mini Talk: Hiding things in sound with steganography
+# Mini Talk: Hiding things i n sound with steganography
 
 ---
 ## Backmasking

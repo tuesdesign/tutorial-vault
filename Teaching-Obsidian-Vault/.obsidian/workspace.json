@@ -13,60 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Controller Workshop.md",
+                "file": "Fall 2025/Game Sound Week 6/Game Sound T5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Controller Workshop"
-            }
-          }
-        ]
-      },
-      {
-        "id": "324083e4a3b2ece6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e42920cde64b092",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Winter 2026/Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "ddd5f0383f78c493",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "Winter 2026/59wznwWraqmjKRbF.mp4"
-              },
-              "icon": "lucide-file",
-              "title": "59wznwWraqmjKRbF"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "092574b9120d3642",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a665fae002e231bb",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "Game Sound T5"
             }
           }
         ]
@@ -89,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -126,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "right": {
     "id": "9a164c69868b29a3",
@@ -215,11 +169,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "351c60729c7efe9c",
+  "active": "75f9ec84f3f8d171",
   "lastOpenFiles": [
-    "Winter 2026/59wznwWraqmjKRbF.mp4",
-    "Custom Controller Workshop.md",
+    "Fall 2025/Game Sound Week 8/Game Sound T6.md",
+    "Fall 2025/Game Sound Week 11/Game Sound T9.md",
+    "Fall 2025/Game Sound Week 10/Game Sound T8.md",
+    "Fall 2025/Game Sound Week 9/Game Sound T7.md",
+    "Fall 2025/Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
+    "Fall 2025/Game Sound Week 2/Game Sound T1 'intro'.md",
+    "Fall 2025/Game Sound Week 4/Game Sound T3.md",
+    "Fall 2025/Game Sound Week 4/Game Sound T3 Breakdown.md",
+    "Fall 2025/Game Sound Week 5/Game Sound T4.md",
+    "Fall 2025/Game Sound Week 2/FL_Studio_2024.webp",
+    "Fall 2025/Game Sound Week 6/Game Sound T5.md",
+    "Fall 2025/Game Sound Week 2/Game Sound T1 Breakdown.md",
+    "Fall 2025/Game Engines Week 9/Game Engine Design Tutorial (Week 9).md",
+    "Fall 2025/Game Engines Week 11/Game Engine Design T11.md",
+    "Fall 2025/Game Engines Week 10/Game Engine Design Week 10.md",
+    "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
+    "Fall 2025/Game Engines Week 6/Game Engine Design Week 6.md",
+    "Fall 2025/Game Engines Week 8/Game Engines Week 8 Tutorial.md",
+    "Fall 2025/Game Engines Week 3/Game Engine Design T2.md",
+    "Fall 2025/Game Engines Week 4/Game Engine Design T3.md",
     "59wznwWraqmjKRbF.mp4",
+    "Custom Controller Workshop.md",
+    "Winter 2026/59wznwWraqmjKRbF.mp4",
     "Console Workshop Script.md",
     "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
     "Winter 2026/Game Hardware/Game Hardware CAD Practice Activity.md",
@@ -234,34 +208,15 @@
     "Pasted image 20260613035318.png",
     "Pasted image 20260613035215.png",
     "Pasted image 20260613034930.png",
-    "Pasted image 20260613034742.png",
     "Untitled.canvas",
     "Winter 2026/Game Hardware/Game Hardware Week 10.md",
-    "Winter 2026/Ai Ethics Questions.md",
     "Winter 2026/Untitled.base",
     "Summer 2026",
-    "Winter 2026/Game Hardware/Game Hardware Week 6.md",
-    "Winter 2026/AI Ethics Presentation.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 8.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 9.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 7.md",
-    "Winter 2026/Intermediate Computer Graphics/Grading Template Activity 1.md",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg.kicad_mod",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_270deg.kicad_mod",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_180deg.kicad_mod",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter.kicad_mod",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_7.00u.kicad_mod",
-    "micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_6.50u.kicad_mod",
-    "Winter 2026/Quiz 2 Makeup Activity.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
-    "Fall 2025/Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
-    "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
-    "Winter 2026/Untitled.md",
-    "Fall 2025/Game Sound Finale/Game Sound T12.md"
+    "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg.kicad_mod",
+    "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_270deg.kicad_mod",
+    "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_180deg.kicad_mod",
+    "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter.kicad_mod",
+    "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_7.00u.kicad_mod",
+    "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_6.50u.kicad_mod"
   ]
 }
