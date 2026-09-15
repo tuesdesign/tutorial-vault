@@ -53,6 +53,14 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Monday Septe
 ### You will be given time during the lab to complete these tasks <!-- element class="fragment" -->
 
 ---
+# Important things to know
+
+### Whenever you make a submission, all code should be readable from your repo, and all functionality should be evident from a build release.
+
+### You can contact KC or I with questions - ideally over Discord. I specialize in Unity, KC specializes in Godot.
+
+
+---
 # In today's Tutorial
 
 ## Discussing tools
