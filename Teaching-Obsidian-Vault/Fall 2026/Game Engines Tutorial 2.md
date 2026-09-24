@@ -70,12 +70,27 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Monday Septe
 ![[Pasted image 20260921115113.png | 600]]
 
 ---
+# Concepts of OOP
+
+![[Pasted image 20260921141326.png]]
 
 ---
-Abstraction
 
-Inheritance
+# Data Oriented Programming
+### The idea behind OOP is that data should be the central to code.
+### In Unity, this is done through DOTS + ECS
+![[bill-nye-bill-nye-the-science-guy.gif]]
+https://www.youtube.com/watch?v=kKGiEz1enzw
 
-Polymorphism
+---
 
-Encapsulation
+# Functional Programming
+
+https://www.youtube.com/watch?v=Qa8IfEeBJqk
+---
+
+# Which should we use?
+
+---
+
+# Real Example in Unity
