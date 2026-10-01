@@ -98,24 +98,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2026/Game Engines Tutorial 3.md",
+                "file": "Fall 2026/Intro CG Tutorial 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Engines Tutorial 3"
+              "title": "Intro CG Tutorial 3"
             }
           }
         ],
         "currentTab": 6
       },
       {
-        "id": "142acf7f8970a4f1",
+        "id": "a002b719d87fdcd5",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "ea68aadaa3b7a955",
+            "id": "57ec6d4f086bba48",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -274,9 +274,23 @@
   },
   "active": "1fcc93d61271bd4f",
   "lastOpenFiles": [
+    "Fall 2026/Intro CG Tutorial 2.md",
+    "Fall 2026/Intro CG Tutorial 3.md",
+    "Pasted image 20261001094247.png",
+    "Pasted image 20261001094236.png",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
+    "Fall 2025/Game Sound Week 5/Game Sound T4.md",
+    "Fall 2025/Game Sound Week 4/Game Sound T3.md",
+    "Fall 2025/Game Sound Week 3/Game Sound T2 'Intro'.md",
+    "Fall 2025/Game Sound Week 3/Game Sound T2 Breakdown.md",
+    "Fall 2025/Game Sound Week 3/Game Sound T2 Writer's Block.md",
+    "Fall 2025/Game Sound Week 2/Game Sound T1 Breakdown.md",
+    "Fall 2025/Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
+    "Fall 2026/Game Engines Tutorial 3.md",
     "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
     "Fall 2025/Game Engines Week 6/Game Engine Design Week 6.md",
-    "Fall 2026/Game Engines Tutorial 3.md",
     "Fall 2026/Game Engines Tutorial 2.md",
     "Fall 2025/Game Engines Week 3/Game Engine Design T2.md",
     "Pasted image 20260928131133.png",
@@ -293,28 +307,13 @@
     "Fall 2026/Game Sound Tutorial 2.md",
     "Winter 2026/Untitled.canvas",
     "Winter 2026/Quiz 2 Makeup Activity.md",
-    "Fall 2026/Intro CG Tutorial 2.md",
     "Pasted image 20260917042030.png",
     "Pasted image 20260921112202.png",
-    "Pasted image 20260921113940.png",
-    "Pasted image 20260921121727.png",
     "Untitled.canvas",
     "Winter 2026/Custom Controller Workshop.md",
     "Winter 2026/Console Workshop Script.md",
-    "Winter 2026/Ai Ethics Questions.md",
-    "Winter 2026/AI Ethics Presentation.md",
     "Winter 2026/59wznwWraqmjKRbF 1.mp4",
     "Winter 2026/59wznwWraqmjKRbF.mp4",
-    "Winter 2026/Game Hardware/Game Hardware Week 8.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 6.md",
-    "Winter 2026/Game Hardware/Game Hardware Week 4.md",
-    "Winter 2026/Game Hardware/Game Hardware Tutorial 2&3.md",
-    "Winter 2026/Game Hardware/Game Hardware Tutorial 1.md",
-    "Winter 2026/Game Hardware/Game Hardware CAD Practice Activity.md",
-    "Fall 2025/Misc/Game Sound Individual Rubric.md",
-    "Fall 2025/Misc/Game Engine Design.md",
-    "Fall 2026/Intro CG Tutorial 1.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
     "Fall 2026",
     "Summer 2026",
     "Winter 2026/micro/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg.kicad_mod",
