@@ -98,24 +98,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2026/Intro CG Tutorial 3.md",
+                "file": "Fall 2026/Game Engines Tutorial 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro CG Tutorial 3"
+              "title": "Game Engines Tutorial 4"
             }
           }
         ],
         "currentTab": 6
       },
       {
-        "id": "a002b719d87fdcd5",
+        "id": "0941ce6e0f044ed2",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "57ec6d4f086bba48",
+            "id": "e25b751114c93f80",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -274,8 +274,12 @@
   },
   "active": "1fcc93d61271bd4f",
   "lastOpenFiles": [
-    "Fall 2026/Intro CG Tutorial 2.md",
+    "Fall 2025/Game Engines Week 4/Game Engine Design T3.md",
+    "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
+    "Fall 2026/Game Engines Tutorial 4.md",
+    "Fall 2026/Game Engines Tutorial 3.md",
     "Fall 2026/Intro CG Tutorial 3.md",
+    "Fall 2026/Intro CG Tutorial 2.md",
     "Pasted image 20261001094247.png",
     "Pasted image 20261001094236.png",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
@@ -288,14 +292,11 @@
     "Fall 2025/Game Sound Week 3/Game Sound T2 Writer's Block.md",
     "Fall 2025/Game Sound Week 2/Game Sound T1 Breakdown.md",
     "Fall 2025/Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
-    "Fall 2026/Game Engines Tutorial 3.md",
-    "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
     "Fall 2025/Game Engines Week 6/Game Engine Design Week 6.md",
     "Fall 2026/Game Engines Tutorial 2.md",
     "Fall 2025/Game Engines Week 3/Game Engine Design T2.md",
     "Pasted image 20260928131133.png",
     "Pasted image 20260928131114.png",
-    "Fall 2025/Game Engines Week 4/Game Engine Design T3.md",
     "Fall 2025/Game Engines Week 2/Game Engine Design T1 Breakdown.md",
     "Fall 2025/Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
     "Fall 2025/Game Engines Week 3/Game Engine Design T2 Breakdown.md",
