@@ -131,6 +131,9 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct
 ## Lighting (and associated effects) can make a big difference!
 
 ---
+# How to take an 
+---
+
 # 5 minute break
 
 ---
