@@ -98,24 +98,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2026/Game Engines Tutorial 4.md",
+                "file": "Fall 2026/Intro CG Tutorial 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Engines Tutorial 4"
+              "title": "Intro CG Tutorial 4"
             }
           }
         ],
         "currentTab": 6
       },
       {
-        "id": "0941ce6e0f044ed2",
+        "id": "52e6a019c1e248c3",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "e25b751114c93f80",
+            "id": "e97da59d17c43758",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -272,20 +272,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1fcc93d61271bd4f",
+  "active": "e97da59d17c43758",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pasted image 20261008083830.png",
+    "Pasted image 20261008082936.png",
+    "Pasted image 20261008082648.png",
+    "Fall 2026/Intro CG Tutorial 3.md",
+    "Fall 2026/Intro CG Tutorial 4.md",
+    "Fall 2026/Game Engines Tutorial 4.md",
     "Fall 2026/Game Sound Tutorial 3.md",
+    "Fall 2026/AI Questions for Class.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
+    "Winter 2026/Intermediate Computer Graphics/Untitled.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
+    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 2.md",
+    "Fall 2026/Game Engines Tutorial 3.md",
+    "Fall 2026/Game Engines Tutorial 2.md",
+    "Untitled.md",
     "Fall 2025/Game Engines Week 4/Game Engine Design T3.md",
     "Fall 2025/Game Engines Week 5/Game Engine Design T5.md",
-    "Fall 2026/Game Engines Tutorial 4.md",
-    "Fall 2026/Game Engines Tutorial 3.md",
-    "Fall 2026/Intro CG Tutorial 3.md",
     "Fall 2026/Intro CG Tutorial 2.md",
     "Pasted image 20261001094247.png",
     "Pasted image 20261001094236.png",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 4.md",
-    "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 1.md",
     "Fall 2025/Game Sound Week 5/Game Sound T4.md",
     "Fall 2025/Game Sound Week 4/Game Sound T3.md",
@@ -295,23 +304,14 @@
     "Fall 2025/Game Sound Week 2/Game Sound T1 Breakdown.md",
     "Fall 2025/Game Sound Week 2/Game Sound T1 'mini-talk-background'.md",
     "Fall 2025/Game Engines Week 6/Game Engine Design Week 6.md",
-    "Fall 2026/Game Engines Tutorial 2.md",
-    "Fall 2025/Game Engines Week 3/Game Engine Design T2.md",
     "Pasted image 20260928131133.png",
     "Pasted image 20260928131114.png",
-    "Fall 2025/Game Engines Week 2/Game Engine Design T1 Breakdown.md",
-    "Fall 2025/Game Engines Week 2/Game Engine Design T1 'Introduction'.md",
-    "Fall 2025/Game Engines Week 3/Game Engine Design T2 Breakdown.md",
     "Winter 2026/Untitled.base",
     "Pasted image 20260922111034.png",
     "Pasted image 20260921141326.png",
     "Pasted image 20260921134055.png",
     "Pasted image 20260921133550.png",
-    "Fall 2026/Game Sound Tutorial 2.md",
     "Winter 2026/Untitled.canvas",
-    "Winter 2026/Quiz 2 Makeup Activity.md",
-    "Pasted image 20260917042030.png",
-    "Pasted image 20260921112202.png",
     "Untitled.canvas",
     "Winter 2026/59wznwWraqmjKRbF 1.mp4",
     "Winter 2026/59wznwWraqmjKRbF.mp4",
