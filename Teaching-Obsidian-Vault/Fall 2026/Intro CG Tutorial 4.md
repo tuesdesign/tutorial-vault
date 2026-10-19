@@ -25,22 +25,41 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct
 ## Lighting Calculation: Per-face
 ## Can be interpolated or 'smoothed out'
 
-
+![[Pasted image 20261008101504.png]]
 
 ---
 # Gouraud shading
 
 ## Lighting Calculation: Per-face
-## 
+## We actually calculate the light value in the vertex shader
+
+ ![[Pasted image 20261008102119.png]]
+
+
 ---
 # Phong Shading
 
+## Adds Specular highlights
+![[Pasted image 20261008102812.png]]
+
+---
+# Specular
+## Has the material properties of a mirror (ie: reflectiveness)
+![[Pasted image 20261008102914.png]]
+
 ---
 # Specular highlights
-## A basic form of reflection we expect to see in somewhat shiny objects is a specular 
+## A basic form of reflection we expect to see in somewhat shiny objects is a specular
 ![[Pasted image 20261008082936.png]]
 
 https://www.youtube.com/watch?v=JmfQLHMw7N8
+
+---
+# Reflection
+
+## This is a subset of reflective properties
+
+https://www.youtube.com/watch?v=hk6c15z63x4
 
 ---
 # Review for Midterm
@@ -66,7 +85,8 @@ https://www.youtube.com/watch?v=JmfQLHMw7N8
 ### Advice: Setup a repo and empty project first, push often.
 
 ---
-
+# 10 Minute Break
+---
 # In-Lab Assignment 1
 
 ## Your goal: Create two shader effects with interesting effects
