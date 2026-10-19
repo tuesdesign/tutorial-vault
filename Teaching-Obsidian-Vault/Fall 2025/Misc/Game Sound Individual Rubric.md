@@ -1,5 +1,7 @@
 The Cover Letter needed to include a lot more information about what sound/audio knowledge you have learned in the course thus far.
 
+and how you would utilize that knowledge in this project.
+
 The Cover Letter needed to include a bit more information about what sound/audio knowledge you have learned in the course thus far.
 
 The Cover Letter included some excellent information about what sound/audio knowledge you have learned in the course thus far!
@@ -14,6 +16,7 @@ Adopting a less conversational writing style would make a big difference towards
 
 Improvements could be made to grammatical and structural flow, which make a big difference in the real world.
 
+Your writing was sincere, but minor improvements could be made to structural flow, grammar, and style, which make a big difference towards professionalism.
 
 
 Cover Letter could have used some extra visual appeal.
@@ -24,10 +27,14 @@ Cover Letter looks great and is presented nicely!
 
 The Cover Letter could have used some extra visual appeal, but it is well written and presented.
 
+It's best to keep a cover letter to a single page if possible.
+
 
 Some of the processed sounds are quite similar to the raw ones. Using effects to a greater degree can help to showcase your creative vision.
 
 Nice work with the sound effects, they fit the vibe of the game, very eerie.
+
+Presenting a wider range of sounds can help to demonstrate the breadth of your capabilities. 
 
 Excellent creativity, and some really nice sound design work!
 
@@ -42,13 +49,19 @@ Some of the sounds had issues with clipping.
 
 For the next assignment, try to add fades at the beginning and end of the audio files to make them smoother, like how was demonstrated in class.
 
+Adding fades at the beginning and end of the audio files can help to avoid playback issues.
+
+Some of the sounds didn't have a clean fade in / out, which can cause issues with playback.  
+
 The sounds weren't very consistent 
 
 For the sound effects, it's important to not have too much empty space before the sound begins.
 
 Make sure to do some adjustments to make the sounds louder (Volume or Normalization) like was demonstrated in class.
 
-Some of the sounds had quite a bit of background noise in them. This could have been improved by a better recording environment, more ideal microphone placement, or improved recording techniques, as was demonstrated in class.
+Some of the sounds had quite a bit of background noise in them. This could have been improved through a better recording environment, more ideal microphone placement, or improved recording techniques, as was demonstrated in class.
+
+For the sound effects, it's important to not have too much empty space before the sound begins or after it ends. Make sure that sounds don't abruptly start or end, either.
 
 Production, Edits, and Cleanup was very well done!
 
@@ -68,3 +81,7 @@ File Format and Bit Depth were correct, but the Sample rate was incorrect for ga
 File Format, Bit Depth, and Sampling Rate were all great!
 
 File Format, Bit Depth, and Sampling Rate were all correct, but your raw recordings were not in the correct format.
+
+It's important to maintain a consistent and descriptive naming scheme between your files.
+
+As an example, consider ArtistName_ProjectName_EffectName_version.wav for evaluations like this, or EffectName_version.wav if filename length is limited like in an engine.
