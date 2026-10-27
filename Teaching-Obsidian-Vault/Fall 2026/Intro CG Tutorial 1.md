@@ -1,4 +1,4 @@
-# INFR 2350U: Intro to Computer Graphics Tutorial 1
+\# INFR 2350U: Intro to Computer Graphics Tutorial 1
 # Introduction
 ![[Pasted image 20260917031942.png | 300]]
 ## We will begin shortly
