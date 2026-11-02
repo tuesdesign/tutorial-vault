@@ -109,11 +109,11 @@
         "currentTab": 6
       },
       {
-        "id": "93d9964cb191f94c",
+        "id": "77040ecd2077b121",
         "type": "tabs",
         "children": [
           {
-            "id": "24f56938ba40a088",
+            "id": "d980a1b969ba0092",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 222.5592041015625
   },
   "right": {
     "id": "9a164c69868b29a3",
@@ -270,7 +270,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1fcc93d61271bd4f",
+  "active": "d980a1b969ba0092",
   "lastOpenFiles": [
     "Pasted image 20261102125823.png",
     "Pasted image 20261102125053.png",

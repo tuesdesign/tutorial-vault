@@ -1,17 +1,16 @@
-
 # INFR 2370U: Game Sound Tutorial
 ![[giphy (1).gif]]
 ## We will begin shortly
-Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct. 9, 2025
+Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct. 27, 2026
 
 ---
 # In Today's Session
 
-## Retrospective: The halfway point <!-- element class="fragment" -->
-## Look Forward: Small Group Assignment<!-- element class="fragment" -->
+## Retrospective: The halfway point 
+## Look Forward: Small Group Assignment
 
-## Mini Talk: Overview of Adaptive Music Methods <!-- element class="fragment" -->
-## Technical Jam: Let's Make an Audio System! <!-- element class="fragment" -->
+## Mini Talk: Overview of Adaptive Music Methods
+## Technical Jam: Let's Make an Audio System! 
 
 ---
 # The Halfway Point
@@ -20,12 +19,6 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct
 
 ## Time sure does fly! <!-- element class="fragment" -->
 ## Thank you very much for attending the tutorials! <!-- element class="fragment" -->
-
----
-# The Halfway Point
-## I'd really appreciate your feedback  
-
-![[Pasted image 20251008213205.png|300]]
 
 ---
 # Looking forward: Small Group Assignment
@@ -48,14 +41,13 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct
 
 # Tips for Small Group Assignment
 
-### Unless your whole GDW team is in this class, you should come up with a new idea for the sake of fairness <!-- element class="fragment" -->
+### Unless your whole GDW team is in this class, you should probably come up with a new idea for the sake of fairness 
 
-### You don't need a fully-fleshed out GDD, just the relevant parts <!-- element class="fragment" -->
+### You don't need a fully-fleshed out GDD, just the relevant parts 
 
-### Form a group with people who don't want to do the same task as you (only one person can be assigned to each role) <!-- element class="fragment" -->
+### Form a group with people who don't want to do the same task as you (only one person can be assigned to each role) 
 
-### Don't underestimate the value of a great presentation. Practice! <!-- element class="fragment" -->
-
+### Don't underestimate the value of a great presentation. Practice! 
 ---
 # Mini Talk: How to use audio in your game engine 
 ![[Pasted image 20251009012249.png]]
