@@ -17,6 +17,10 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Monday Novem
 ## Independent Work Time
 
 ---
+# Before we begin...
+## The second Lab Assignment will take place next week
+
+---
 
 # What are libraries?
 ![[Enchanted_Book.gif]]
