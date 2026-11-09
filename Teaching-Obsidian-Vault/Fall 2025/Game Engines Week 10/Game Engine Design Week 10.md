@@ -37,6 +37,7 @@ Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Oct
 ## Get good.
 
 ![[twitter-gif-1762506801206.gif]]
+
 ---
 # It is possible to over-optimize a game
 
