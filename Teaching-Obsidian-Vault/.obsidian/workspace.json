@@ -6,6 +6,7 @@
       {
         "id": "30698dc7b05cd1e9",
         "type": "tabs",
+        "dimension": 73.6738703339882,
         "children": [
           {
             "id": "351c60729c7efe9c",
@@ -69,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2026/Game Engines Tutorial 7.md",
+                "file": "Fall 2026/Game Sound Tutorial 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Engines Tutorial 7"
+              "title": "Game Sound Tutorial 8"
             }
           },
           {
@@ -123,11 +124,12 @@
         "currentTab": 4
       },
       {
-        "id": "52302ad5690e89c0",
+        "id": "95e6aff3127094a4",
         "type": "tabs",
+        "dimension": 26.326129666011788,
         "children": [
           {
-            "id": "cee8a9fdacf21812",
+            "id": "8459cdb8a1c4ec0c",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -170,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "steganography",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,11 +193,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a164c69868b29a3",
@@ -286,13 +290,25 @@
   },
   "active": "a6d899ba26702216",
   "lastOpenFiles": [
+    "Pasted image 20261110135235.png",
+    "Pasted image 20261110132635.png",
+    "Pasted image 20261110132607.png",
+    "Pasted image 20261110132118.png",
+    "Pasted image 20261110131437.png",
+    "Pasted image 20261110130458.png",
+    "Pasted image 20261110130158.png",
+    "Pasted image 20261110130049.png",
+    "Pasted image 20261110125525.png",
+    "Fall 2025/Game Sound Week 9/Game Sound T7.md",
+    "Fall 2025/Game Sound Week 8/Game Sound T6.md",
+    "Fall 2026/Game Sound Tutorial 8.md",
+    "Fall 2026/Game Engines Tutorial 7.md",
     "Pasted image 20261109023541.png",
     "Pasted image 20261109022539.png",
     "Fall 2025/Game Engines Week 10/Game Engine Design Week 10.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 3.md",
     "Fall 2026/Game Engines Tutorial 1.md",
     "Fall 2026/Game Engines Tutorial 6.md",
-    "Fall 2026/Game Engines Tutorial 7.md",
     "Fall 2026/Game Engines Tutorial 8.md",
     "Fall 2026/Intro CG Tutorial 6.md",
     "Fall 2025/Game Engines Week 8/Game Engines Week 8 Tutorial.md",
@@ -303,25 +319,13 @@
     "Fall 2026/Game Engines Tutorial 3.md",
     "Fall 2026/AI Questions for Class.md",
     "Fall 2026/Game Engines Tutorial 2.md",
-    "Pasted image 20261109020731.png",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 6.md",
     "Winter 2026/Intermediate Computer Graphics/Intermediate CG Week 10.md",
     "Fall 2026/Intro CG Tutorial 5.md",
-    "Pasted image 20261022110738.png",
-    "Pasted image 20261022110509.png",
-    "Pasted image 20261022110320.png",
-    "Pasted image 20261102125823.png",
-    "Pasted image 20261102125053.png",
-    "Pasted image 20261102124921.png",
-    "Pasted image 20261102124452.png",
-    "Pasted image 20261102124256.png",
     "Fall 2026/Game Engines Tutorial 5.md",
     "Fall 2026/Game Sound Tutorial 6.md",
     "Fall 2025/Game Sound Week 6/Game Sound T5.md",
     "Fall 2025/Game Sound Week 5/Game Sound T4.md",
-    "Fall 2025/Game Sound Week 4/Game Sound T3 Breakdown.md",
-    "Fall 2025/Game Sound Week 4/Game Sound T3.md",
-    "Fall 2025/Game Sound Week 3/Game Sound T2 Writer's Block.md",
     "Winter 2026/Untitled.base",
     "Winter 2026/Untitled.canvas",
     "Untitled.canvas",
