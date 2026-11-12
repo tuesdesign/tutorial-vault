@@ -1,8 +1,8 @@
-# INFR 2350U: Midterm Review and interpolation
+# INFR 2350U: Images and Post-Processing
 
 ![[Pasted image 20260917031942.png | 300]]
 ## We will begin shortly
-Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Nov 4, 2026
+Presented by Constantine Lucius Pallas for Ontario Tech University, Thursday Nov 5, 2026
 
 ---
 # In Today's Tutorial
