@@ -55,15 +55,18 @@ https://www.youtube.com/watch?v=1CTtSysCDOw
 ---
 # What does that look like?
 https://www.youtube.com/watch?v=Bw78DULgqOU
+
 ---
 # How can we make music like that?
 ![[Pasted image 20251113143941.png]]
+
 ---
 
 
 ---
 # Some people are still writing music like this today!
 https://www.youtube.com/watch?v=GndNBdlqYAA
+
 ---
 
 ![[Pasted image 20251113144447.png]]
@@ -71,6 +74,7 @@ https://www.youtube.com/watch?v=GndNBdlqYAA
 ---
 # Famistudio
 https://www.youtube.com/watch?v=O0IO6EI-5Dk
+
 ---
 # Multi-Instrument Jam Session
 
